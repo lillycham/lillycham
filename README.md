@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lillycat332
+- 👋 Hi, I’m lilly
 - 👀 I’m interested in SwiftUI, Apple development and web design
 - 🌱 I’m currently learning Swift and C
-- 💞️ I’m looking to collaborate on my Swift text editor, Sedit (gedit?)
 - 📫 How to reach me - via email or twitter
 
 <!---
