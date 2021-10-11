@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lilly
+- 👋 Hi, I’m lilly - she/her pronouns :)
 - 👀 I’m interested in SwiftUI, Apple development and web design
 - 🌱 I’m currently learning Swift and C
 - 📫 How to reach me - via email or twitter
