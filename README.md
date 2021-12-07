@@ -8,7 +8,7 @@ let languages : [String] = ["Swift", "C", "HTML"]
 
 <p align="center">
   <a href="https://github.com/lillycat332">
-    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true" alt="lillycat332's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=false&show_icons=true" alt="lillycat332's github stats">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ let languages : [String] = ["Swift", "C", "HTML"]
   <a href="https://affinity.serif.com/en-gb/">
     <img src="https://user-images.githubusercontent.com/54189319/145036531-32582195-e550-4c44-89b8-4e723addd428.png">
   </a>
-  <!--<a href="https://www.arm.com">
+  <a href="https://www.arm.com">
     <img src="https://user-images.githubusercontent.com/54189319/145036190-f44f6d4a-53d6-4888-9bcb-2755635dc59e.png">
-  </a>--!>
+  </a>
 </p>
