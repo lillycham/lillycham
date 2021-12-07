@@ -1,5 +1,7 @@
-<h1>Hi, I'm Lilly!</h1>
-<p1>she/her</p1> | <p1>they/them</p1> | <p1>meow/meows</p1>
+<h1 align="center">Hi, I'm Lilly!</h1>
+<p align="center">
+  <p1>she/her</p1> | <p1>they/them</p1> | <p1>meow/meows</p1>
+</p>
 <h1></h1>
 <p align="center">
   <a href="https://github.com/lillycat332">
