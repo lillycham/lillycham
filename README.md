@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://dribbble.com/lillyfgsfds">Dribbble</a> | 
-  <a href="https://www.youtube.com/channel/UCrrh8KuvEenremkNvCTZAPw">Youtube</a> 
-  <a href="https://7daysfree.xyz">Website</a> | 
+  <a href="https://www.youtube.com/channel/UCrrh8KuvEenremkNvCTZAPw">Youtube</a> | 
+  <a href="https://7daysfree.xyz">Website</a> 
  </p>
