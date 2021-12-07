@@ -6,8 +6,10 @@
 </p>
 <p align="center">interested in: iOS / macOS / web </p>
 <p align="center">i'm learning : Swift / C / ARM asm </p>
-
-[![Years Badge](https://badges.pufler.dev/years/lillycat332)](https://badges.pufler.dev) | [![Repos Badge](https://badges.pufler.dev/repos/lillycat332)](https://badges.pufler.dev) | [![Commits Badge](https://badges.pufler.dev/commits/monthly/lillycat332)](https://badges.pufler.dev)
+<p align="center">
+  <img src="https://badges.pufler.dev/years/lillycat332">
+  <img src="https://badges.pufler.dev/repos/lillycat332">
+  <img src="https://badges.pufler.dev/commits/monthly/lillycat332">
 
 <p align="center">
   <a href="https://dribbble.com/lillyfgsfds">Dribbble</a> | 
