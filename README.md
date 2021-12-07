@@ -1,9 +1,9 @@
 <img src="header.png">
 
 ```swift
-let platforms : Array = ["macOS", "iOS", "Plan 9"]
-let editors   : Array = ["Xcode", "VSCode", "Neovim"]
-let languages : Array = ["Swift", "C", "HTML"]
+let platforms : [String] = ["macOS", "iOS", "Plan 9"]
+let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
+let languages : [String] = ["Swift", "C", "HTML"]
 ```
 
 <p align="center">
