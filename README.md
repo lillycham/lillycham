@@ -16,7 +16,7 @@ let languages : [String] = ["Swift", "C", "HTML"]
 </p>
 
 
-<p3 align="center">Note: Unless the repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
+<p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
 
 
 <p align="center">
