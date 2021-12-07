@@ -23,7 +23,7 @@
   <img src="https://badges.pufler.dev/repos/lillycat332">
   <img src="https://badges.pufler.dev/commits/monthly/lillycat332">
 </p>
-<p>
+<p align="center">
   <a href="https://dribbble.com/lillyfgsfds">Dribbble</a> | 
   <a href="https://www.youtube.com/channel/UCrrh8KuvEenremkNvCTZAPw">Youtube</a> | 
   <a href="https://7daysfree.xyz">Website</a> 
