@@ -3,7 +3,7 @@
 <a href="https://github.com/lillycat332">
   <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true" alt="lillycat332's github stats">
 </a>
-
+<p1 align="center">
 ```swift
 List(platforms) {
   Text("ios")
@@ -23,7 +23,7 @@ List(languages) {
   Text("HTML")
 }
 ```
-
+</p1>
 <p align="center">
   <a href="https://9front.org">
     <img src="https://user-images.githubusercontent.com/54189319/145022061-542e9920-9a60-40c7-96d9-555b3a1326c3.png">
