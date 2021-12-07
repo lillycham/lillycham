@@ -28,7 +28,7 @@
 </p>
 <h2 align="center">Socials</h2>
 <p align="center">
-  <a href="https://dribbble.com/lillyfgsfds">Dribbble</a> | 
-  <a href="https://www.youtube.com/channel/UCrrh8KuvEenremkNvCTZAPw">Youtube</a> | 
-  <a href="https://7daysfree.xyz">Website</a> 
+  <a href="https://dribbble.com/lillyfgsfds"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCrrh8KuvEenremkNvCTZAPw"><img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
+  <a href="https://7daysfree.xyz"><img src="https://img.shields.io/badge/Home-EA4C89?style=for-the-badge&logo=curl&logoColor=white"></a> 
  </p>
