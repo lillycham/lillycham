@@ -10,17 +10,13 @@ List(platforms) {
   Text("macos")
   Text("web")
 }
-```
 
-```swift
 List(editors) {
   Text("xcode")
   Text("vscode")
   Text("neovim")
 }
-```
 
-```swift
 List(languages) {
   Text("Swift")
   Text("C")
