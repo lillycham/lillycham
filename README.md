@@ -8,11 +8,11 @@ let languages : [String] = ["Swift", "C", "HTML"]
 
 <p align="center">
   <a href="https://github.com/lillycat332">
-    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" alt="lillycat332's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=5BFFE5&text_color=5BFFE5&icon_color=5BFFE5&include_all_commits=true" alt="lillycat332's github stats">
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=5BFFE5&text_color=5BFFE5&icon_color=5BFFE5&include_all_commits=true">
 </p>
 
 <p align="center">
