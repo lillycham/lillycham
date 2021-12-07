@@ -4,25 +4,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true" alt="lillycat332's github stats">
 </a>
 <p1 align="center">
-```swift
-List(platforms) {
-  Text("ios")
-  Text("macos")
-  Text("web")
-}
+  ```swift
+  List(platforms) {
+    Text("ios")
+    Text("macos")
+    Text("web")
+  }
 
-List(editors) {
-  Text("xcode")
-  Text("vscode")
-  Text("neovim")
-}
+  List(editors) {
+    Text("xcode")
+    Text("vscode")
+    Text("neovim")
+  }
 
-List(languages) {
-  Text("Swift")
-  Text("C")
-  Text("HTML")
-}
-```
+  List(languages) {
+    Text("Swift")
+    Text("C")
+    Text("HTML")
+  }
+  ```
 </p1>
 <p align="center">
   <a href="https://9front.org">
