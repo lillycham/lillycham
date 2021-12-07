@@ -34,6 +34,9 @@ List(languages) {
   <a href="https://code.visualstudio.com">
     <img src="https://user-images.githubusercontent.com/54189319/145035904-c3578827-25cf-442e-8b56-5b302a2b4c4b.png">
   </a>
+  <a href="https://affinity.serif.com/en-gb/">
+    <img src="https://user-images.githubusercontent.com/54189319/145036531-32582195-e550-4c44-89b8-4e723addd428.png">
+  </a>
   <!--<a href="https://www.arm.com">
     <img src="https://user-images.githubusercontent.com/54189319/145036190-f44f6d4a-53d6-4888-9bcb-2755635dc59e.png">
   </a>--!>
