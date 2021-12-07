@@ -1,6 +1,5 @@
 <img src="header.png">
 <p1>platforms {</p1>
-
 <p>
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
