@@ -8,8 +8,9 @@ let languages : [String] = ["Swift", "C", "HTML"]
 
 <p align="center">
   <a href="https://github.com/lillycat332">
-    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="lillycat332's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" alt="lillycat332's github stats">
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true"
 </p>
 
 <p align="center">
