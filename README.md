@@ -14,7 +14,7 @@ let languages : [String] = ["Swift", "C", "HTML"]
 
 <p align="center">
   <a href="https://9front.org">
-    <img src="https://user-images.githubusercontent.com/54189319/145022061-542e9920-9a60-40c7-96d9-555b3a1326c3.png">
+    <img src="9front.png">
   </a>
   <a href="https://apple.com/macos">
     <img src="macOSnew.png">
