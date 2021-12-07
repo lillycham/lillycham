@@ -17,12 +17,12 @@ let languages : [String] = ["Swift", "C", "HTML"]
     <img src="https://user-images.githubusercontent.com/54189319/145022061-542e9920-9a60-40c7-96d9-555b3a1326c3.png">
   </a>
   <a href="https://apple.com/macos">
-    <img src="https://user-images.githubusercontent.com/54189319/145035968-29eae403-af1b-4f00-82e4-f4c4870c90a8.png">
+    <img src="macOSnew.png">
   </a>
   <a href="https://code.visualstudio.com">
-    <img src="https://user-images.githubusercontent.com/54189319/145035904-c3578827-25cf-442e-8b56-5b302a2b4c4b.png">
+    <img src="vscnew.png">
   </a>
   <a href="https://affinity.serif.com/en-gb/">
-    <img src="https://user-images.githubusercontent.com/54189319/145036531-32582195-e550-4c44-89b8-4e723addd428.png">
+    <img src="Affinity.png">
   </a>
 </p>
