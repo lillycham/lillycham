@@ -26,4 +26,5 @@ List(languages) {
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54189319/144992309-c0352d4a-4135-4eaa-af32-a7f75262a71c.png">
+  <img src="https://user-images.githubusercontent.com/54189319/145002463-bdb3ff1e-57b8-4dba-bc20-4fbabb296bf2.png">
 </p>
