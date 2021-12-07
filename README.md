@@ -21,11 +21,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true" alt="lillycat332's github stats">
   </a>
 </p>
-<p align="center">
-  <img src="https://badges.pufler.dev/years/lillycat332">
-  <img src="https://badges.pufler.dev/repos/lillycat332">
-  <img src="https://badges.pufler.dev/commits/monthly/lillycat332">
-</p>
 <h2 align="center">Socials</h2>
 <p align="center">
   <a href="https://dribbble.com/lillyfgsfds"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
