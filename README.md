@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Lilly!</h1>
-<h3 align="center">
-  <p1>she/her</p1> | <p1>they/them</p1> | <p1>meow/meows</p1>
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hi+i%27m+lilly;she%2Fher+they%2Fthem+meow%2Fmeows)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://github.com/lillycat332">
     <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true" alt="lillycat332's github stats">
