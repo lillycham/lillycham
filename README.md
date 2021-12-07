@@ -1,8 +1,9 @@
+<h1>Hi, I'm Lilly!</h1>
 <p float="left">
   <ul>
-    <li>👋 Hi, I’m lilly - she/her pronouns :)</li>
-    <li>👀 I’m interested in SwiftUI, Apple development and web design</li>
-    <li>🌱 I’m currently learning Swift, C and ARM assembly</li>
+    <li>she/her pronouns</li>
+    <li>I’m interested in SwiftUI, Apple development and web design</li>
+    <li>I’m currently learning Swift, C and ARM assembly</li>
   </ul>
 </p>
 <h1></h1>
