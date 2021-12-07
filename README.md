@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">interested in: iOS / macOS / web </p>
-<p align="center">learning : Swift / C / ARM asm </p>
+<p align="center">i'm learning : Swift / C / ARM asm </p>
 
 <p align="center">
   <a href="https://dribbble.com/lillyfgsfds">Dribbble</a> | 
