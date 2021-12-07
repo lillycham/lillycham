@@ -12,7 +12,7 @@ let languages : [String] = ["Swift", "C", "HTML"]
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000">
 </p>
 
 <p align="center">
