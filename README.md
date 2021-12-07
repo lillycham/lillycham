@@ -1,24 +1,11 @@
 <img src="header.png">
 
 ```swift
-List(platforms) {
-  Text("ios")
-  Text("macos")
-  Text("web")
-}
-
-List(editors) {
-  Text("xcode")
-  Text("vscode")
-  Text("neovim")
-}
-
-List(languages) {
-  Text("Swift")
-  Text("C")
-  Text("HTML")
-}
+let platforms : Array = ["macOS", "iOS", "Plan 9"]
+let editors   : Array = ["Xcode", "VSCode", "Neovim"]
+let languages : Array = ["Swift", "C", "HTML"]
 ```
+
 <p align="center">
   <a href="https://github.com/lillycat332">
     <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true" alt="lillycat332's github stats">
