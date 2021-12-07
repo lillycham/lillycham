@@ -24,6 +24,6 @@ List(languages) {
 }
 ```
 
-<p1 align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/54189319/144992309-c0352d4a-4135-4eaa-af32-a7f75262a71c.png">
-</p1>
+</p>
