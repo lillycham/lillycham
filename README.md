@@ -29,9 +29,12 @@ List(languages) {
     <img src="https://user-images.githubusercontent.com/54189319/145022061-542e9920-9a60-40c7-96d9-555b3a1326c3.png">
   </a>
   <a href="https://apple.com/macos">
-    <img src="https://user-images.githubusercontent.com/54189319/145020941-d9ea6104-9965-44a7-a33f-677c234dcf59.png">
+    <img src="https://user-images.githubusercontent.com/54189319/145035968-29eae403-af1b-4f00-82e4-f4c4870c90a8.png">
   </a>
   <a href="https://code.visualstudio.com">
-    <img src="https://user-images.githubusercontent.com/54189319/145023467-b7ce9bcc-2f6f-4956-82ae-4c5369402958.png">
+    <img src="https://user-images.githubusercontent.com/54189319/145035904-c3578827-25cf-442e-8b56-5b302a2b4c4b.png">
+  </a>
+  <a href="https://www.arm.com">
+    <img src="https://user-images.githubusercontent.com/54189319/145036190-f44f6d4a-53d6-4888-9bcb-2755635dc59e.png">
   </a>
 </p>
