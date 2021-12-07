@@ -6,7 +6,7 @@
 </p>
 <p align="center">interested in: iOS / macOS / web </p>
 <p align="center">i'm learning : Swift / C / ARM asm </p>
-
+[![Years Badge](https://badges.pufler.dev/years/lillycat332)](https://badges.pufler.dev)
 <p align="center">
   <a href="https://dribbble.com/lillyfgsfds">Dribbble</a> | 
   <a href="https://www.youtube.com/channel/UCrrh8KuvEenremkNvCTZAPw">Youtube</a> | 
