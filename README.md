@@ -8,7 +8,7 @@ let languages : [String] = ["Swift", "C", "HTML"]
 
 <p align="center">
   <a href="https://github.com/lillycat332">
-    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true" alt="lillycat332's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true&count_private=true" alt="lillycat332's github stats">
   </a>
 </p>
 <p align="center">
