@@ -1,10 +1,6 @@
 <img src="header.png">
 
-```swift
-let platforms : [String] = ["macOS", "iOS", "Plan 9"]
-let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
-let languages : [String] = ["Swift", "C", "HTML"]
-```
+
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=lillycat332&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=FFB6C1&sideNums=000000&ring=000000&fire=4E4E4E&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&dates=4E4E4E&border=DD2727">
 </p>
@@ -19,6 +15,11 @@ let languages : [String] = ["Swift", "C", "HTML"]
 
 <p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
 
+```swift
+let platforms : [String] = ["macOS", "iOS", "Plan 9"]
+let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
+let languages : [String] = ["Swift", "C", "HTML"]
+```
 
 <p align="center">
   <a href="https://9front.org">
