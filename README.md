@@ -6,11 +6,11 @@
 </p>
 <p align="center">
   <a href="https://github.com/lillycat332">
-    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true&count_private=true" alt="lillycat332's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lillycat332&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true&count_private=true" alt="lillycat332's github stats">
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000&cache_seconds=1800">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1&title_color=000000&text_color=000000&icon_color=000000&cache_seconds=1800">
 </p>
 
 <p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
