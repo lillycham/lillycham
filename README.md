@@ -14,9 +14,9 @@ let languages : [String] = ["Swift", "C", "HTML"]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=10,ffb6c1,ff5c75&title_color=000000&text_color=000000&icon_color=000000&cache_seconds=1800">
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lillycat332)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lillycat332&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=FFB6C1&sideNums=000000&ring=000000&fire=31FFFE&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&dates=31FFFE&border=DD2727)](https://git.io/streak-stats">
+</p>
 <p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
 
 
