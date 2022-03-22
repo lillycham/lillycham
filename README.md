@@ -13,7 +13,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=000000&cache_seconds=1800">
 </p>
 
-<p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
+# About me
+I'm Lilly :)
+I'm primarily into desktop and mobile program development, whether it be Mac and iOS apps, command line tools or little scripts and automations.
+I write mostly in Swift, and i'm learning C and Go - My stats are heavily skewed towards Python, since I use it for schoolwork. 
+I'm also competent in HTML for static pages.
+I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9.
+
 
 ```swift
 let platforms : [String] = ["macOS", "iOS", "Plan 9"]
@@ -21,11 +27,7 @@ let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
 let languages : [String] = ["Swift", "C", "HTML", "Go"]
 ```
 
-# About me
-I'm Lilly :)
-I'm primarily into desktop and mobile program development, whether it be Mac and iOS apps, command line tools or little scripts and automations.
-I write mostly in Swift, and i'm learning C and Go - My stats are heavily skewed towards Python, since I use it for schoolwork. 
-I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9.
+<p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
 
 <p align="center">
   <a href="https://9front.org">
