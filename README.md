@@ -21,7 +21,7 @@ let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
 let languages : [String] = ["Swift", "C", "HTML", "Go"]
 ```
 
-#About me
+# About me
 I'm Lilly :)
 I'm primarily into desktop and mobile program development, whether it be Mac and iOS apps, command line tools or little scripts and automations.
 I write mostly in Swift, and i'm learning C and Go - My stats are heavily skewed towards Python, since I use it for schoolwork. 
