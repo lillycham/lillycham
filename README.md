@@ -24,7 +24,7 @@ I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9.
 ```swift
 let platforms : [String] = ["macOS", "iOS", "Plan 9"]
 let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
-let languages : [String] = ["Swift", "C", "HTML", "Go"]
+let languages : [String] = ["Swift", "C", "HTML"]
 ```
 
 <p3 align="center">Note: Unless a repo has a readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
