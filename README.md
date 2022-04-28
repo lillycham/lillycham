@@ -16,15 +16,14 @@
 # About me
 I'm Lilly :)
 I'm primarily into desktop and mobile program development, whether it be Mac and iOS apps, command line tools or little scripts and automations.
-I write mostly in Swift, and I'm learning C and Go - My stats are heavily skewed towards Python, since I use it for schoolwork. 
-I'm also competent in HTML+CSS for static pages.
-I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9.
+I write mostly in Swift and Go, with a bit of other languages such as TypeScript and C.
+I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9 for Go and C, and for everything else I use Visual Studio Code. You can see some of the tools and configs I use in my [nixfiles](https://github.com/lillycat332/nixfiles) repo.
 
 
-```swift
-let platforms : [String] = ["macOS", "iOS", "Plan 9"]
-let editors   : [String] = ["Xcode", "VSCode", "Neovim"]
-let languages : [String] = ["Swift", "C", "HTML"]
+```go
+platforms := ["macOS", "iOS", "Plan 9"]
+editors   := ["VSCode", "Acme"]
+languages := ["Swift", "C", "Go"]
 ```
 
 <p3 align="center">Note: Unless a repo has a (detailed) readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
