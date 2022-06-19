@@ -19,6 +19,7 @@ I'm primarily into desktop and mobile program development, whether it be Mac and
 I write mostly in Swift and Go, with a bit of other languages such as TypeScript and C.
 I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9 for Go and C, and for everything else I use Visual Studio Code. You can see some of the tools and configs I use in my [nixfiles](https://github.com/lillycat332/nixfiles) repo.
 
+You can contact me at: lilly@lillycat.tech
 
 ```go
 platforms := ["macOS", "iOS", "Plan 9"]
