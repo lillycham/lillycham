@@ -10,7 +10,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&langs-count=10&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=000000">
 </p>
 
 # About me
