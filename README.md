@@ -21,12 +21,6 @@ I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9 for Go 
 
 You can contact me at: lilly@lillycat.tech
 
-```go
-platforms := ["macOS", "iOS", "Plan 9"]
-editors   := ["VSCode", "Acme"]
-languages := ["Swift", "C", "Go"]
-```
-
 <p3 align="center">Note: Unless a repo has a (detailed) readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
 
 <p align="center">
