@@ -28,7 +28,8 @@ nimi mi li Lili.
 mi tan ma Juke.
 mi li toki ilo tawa ilo toki, ilo sona, ilo lipu toki tasu, ilo pali jan.
 mi li toki ilo li toki Swift, toki Typescript, toki Askal.
-mi ante kepeken akmi, oko tomo pali toki ilo, imaks
+mi ante kepeken akmi, oko tomo pali toki ilo, imaks.
+
 lipu tawa kon mi lilly@lillycat.tech a!
 
 <p align="center">
