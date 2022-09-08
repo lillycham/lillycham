@@ -27,8 +27,8 @@ You can contact me at: lilly@lillycat.tech
 nimi mi li Lili.
 mi tan ma Juke.
 mi li toki ilo tawa ilo toki, ilo sona, ilo lipu toki tasu, ilo pali jan.
-mi li toki ilo li toki Swift, toki Typescript, toki Askal.
-mi ante kepeken akmi, oko tomo pali toki ilo, imaks.
+mi li toki ilo li toki Swift, toki Typescript, toki Haskell.
+mi ante kepeken akimi, oko tomo pali toki ilo, emacs.
 
 lipu tawa kon mi lilly@lillycat.tech a!
 
