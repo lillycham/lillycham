@@ -22,27 +22,3 @@ I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9 for Go 
 You can contact me at: lilly@lillycat.tech
 
 <p3 align="center">Note: Unless a repo has a (detailed) readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
-
-# mi sona
-nimi mi li Lili.
-mi tan ma Juke.
-mi li toki ilo tawa ilo toki, ilo sona, ilo lipu toki tasu, ilo pali jan.
-mi li toki ilo li toki Swift, toki Typescript, toki Haskell.
-mi ante kepeken akimi, oko tomo pali toki ilo, emacs.
-
-lipu tawa kon mi lilly@lillycat.tech a!
-
-<p align="center">
-  <a href="https://9front.org">
-    <img src="9front.png">
-  </a>
-  <a href="https://apple.com/macos">
-    <img src="macOSnew.png">
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="vscnew.png">
-  </a>
-  <a href="https://affinity.serif.com/en-gb/">
-    <img src="Affinity.png">
-  </a>
-</p>
