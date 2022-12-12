@@ -15,10 +15,7 @@
 
 # About me
 I'm Lilly :), from the UK.
-I'm primarily into desktop and mobile program development, whether it be Mac and iOS apps, command line tools or little scripts and automations.
-I write mostly in Swift, Haskell and typescript, with a bit of other languages such as Go and C.
-I use the Acme editor, a mouse driven editor from ~~Outer Space~~ Plan 9 for Go and C, for TypeScript, I use VSCode, and for everything else I use Emacs. You can see some of the tools and configs I use in my [nixfiles](https://github.com/lillycat332/nixfiles) repo.
 
-You can contact me at: lilly@lillycat.tech
+You can contact me at: lilly@lillycat.tech.
 
 <p3 align="center">Note: Unless a repo has a (detailed) readme, it's mainly for personal usage. Don't bother making issues on my repos which don't have a README</p3>
