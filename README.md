@@ -12,5 +12,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&langs-count=10&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=000000">
 </p> -->
+# Hey!
+
+I'm Lilly. My biggest interests lie in AI tooling, app and web development, and the application of functional programming and reproducibility to the aforementioned. 
 
 PGP: E83D 211C 9254 D5F9 01C4  3269 E50A C50C 97CE FD74
