@@ -12,8 +12,29 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillycat332&langs-count=10&layout=compact&hide_border=true&show_icons=true&border_radius=10px&bg_color=ffb6c1&title_color=000000&text_color=000000&icon_color=000000">
 </p> -->
-# Hey!
 
-I'm Lilly. My biggest interests lie in AI tooling, app and web development, and the application of functional programming and reproducibility to the aforementioned. 
+# Hey! 🐇
 
-PGP: E83D 211C 9254 D5F9 01C4  3269 E50A C50C 97CE FD74
+I'm Lilly. I like picking apart the internals of large language models and finding out how they work. Much of
+my work is in mechanistic interpretability, and I've also been working on LLM tooling with MCP servers for agents.
+
+Most of my projects are packaged with Nix for reproducible builds and developer environments.
+
+## What I'm working on
+
+- **[akyuu](https://github.com/lillycham/akyuu)**: a content-addressed persistent memory store for AI agents.
+- **Interpretability experiments** and **fine-tuning** open models:
+  - Searching for neurons that alter behaviour in interesting ways.
+  - Finding and interpreting signals like emotion vectors.
+  - Fine tuning models to produce specific outputs, like well-typed lambda calculus terms.
+  - Grafting new things into models, like grafting an adder circuit into Qwen to try and improve its math ability.
+- **[tiny-lm](https://github.com/lillycham/tiny-lm)**: Training a small GPT-2 style model on public datasets.
+- **[nixfiles](https://github.com/lillycham/nixfiles)**: Declarative configs for my devices.
+
+## Contact
+
+[lillycham.com](https://lillycham.com)
+
+Email: [me@lillycham.com](mailto:me@lillycham.com)
+
+PGP: `E83D 211C 9254 D5F9 01C4  3269 E50A C50C 97CE FD74`
