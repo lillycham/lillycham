@@ -15,8 +15,10 @@
 
 # Hey! 🐇
 
-I'm Lilly. I like picking apart the internals of large language models and finding out how they work. Much of
-my work is in mechanistic interpretability, and I've also been working on LLM tooling with MCP servers for agents.
+I'm Lilly. I like functional programming and picking apart the internals of large language models and finding out how they work. 
+Much of my current work is in pre-training and mechanistic interpretability, and I've also been working on LLM tooling with MCP servers for agents.
+
+I also work on language design and implementation as a hobby -- particularly declarative functional languages with powerful type systems.
 
 Most of my projects are packaged with Nix for reproducible builds and developer environments.
 
