@@ -31,7 +31,7 @@ Most of my projects are packaged with Nix for reproducible builds and developer 
   - Fine tuning models to produce specific outputs, like well-typed lambda calculus terms.
   - Grafting new things into models, like grafting an adder circuit into Qwen to try and improve its math ability.
 - **[tiny-lm](https://github.com/lillycham/tiny-lm)**: Training a small GPT-2 style model on public datasets.
-- **[λsh](https://github.com/lillycham/tiny-lm)**: A research shell; functional scripting with algebraic effects.
+- **[λsh](https://github.com/lillycham/lambdash)**: A research shell; functional scripting with algebraic effects.
 - **[nixfiles](https://github.com/lillycham/nixfiles)**: Declarative configs for my devices.
 
 ## Contact
