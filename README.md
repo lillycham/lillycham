@@ -36,7 +36,9 @@ Most of my projects are packaged with Nix for reproducible builds and developer 
 
 ## Contact
 
-[lillycham.com](https://lillycham.com)
+Website: [lillycham.com](https://lillycham.com)
+
+Hugging Face: [https://huggingface.co/lillycham](https://huggingface.co/lillycham)
 
 Email: [me@lillycham.com](mailto:me@lillycham.com)
 
