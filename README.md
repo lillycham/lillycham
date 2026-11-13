@@ -27,6 +27,7 @@ Most of my projects are packaged with Nix for reproducible builds and developer 
 - My Agent Stack:
   - **[akyuu](https://github.com/lillycham/akyuu)**: Harness agnostic content-addressed persistent memory.
   - **[skillx](https://github.com/lillycham/skillx)**: Declarative harness agnostic skill manager.
+  - **[shukka](https://github.com/lillycham/shukka)**: Declarative provider agnostic Nix definitions of GPU jobs.
 - **Interpretability experiments** and **fine-tuning** open models:
   - Searching for neurons that alter behaviour in interesting ways.
   - Finding and interpreting signals like emotion vectors.
