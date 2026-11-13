@@ -24,7 +24,9 @@ Most of my projects are packaged with Nix for reproducible builds and developer 
 
 ## What I'm working on
 
-- **[akyuu](https://github.com/lillycham/akyuu)**: a content-addressed persistent memory store for AI agents.
+- My Agent Stack:
+  - **[akyuu](https://github.com/lillycham/akyuu)**: Harness agnostic content-addressed persistent memory.
+  - **[skillx](https://github.com/lillycham/skillx)**: Declarative harness agnostic skill manager.
 - **Interpretability experiments** and **fine-tuning** open models:
   - Searching for neurons that alter behaviour in interesting ways.
   - Finding and interpreting signals like emotion vectors.
